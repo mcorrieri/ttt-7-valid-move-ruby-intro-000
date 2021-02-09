@@ -4,7 +4,7 @@ def valid_move?(board, index)
     return false
   else
     execute between?(0, 8)
-    
+
   end
 
 end
